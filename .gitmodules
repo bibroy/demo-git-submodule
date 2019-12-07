@@ -1,0 +1,6 @@
+[submodule "webhook"]
+	path = webhook
+	url = https://github.com/evergreen-programmer/library-submodule-webhook.git
+[submodule "webcontext"]
+	path = webcontext
+	url = https://github.com/evergreen-programmer/library-submodule-webcontext.git
